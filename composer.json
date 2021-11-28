@@ -1,0 +1,7 @@
+{
+    "name": "levmyshkin/tiny-slider",
+    "description": "Fork from ganlanyuan/tiny-slider. Tiny slider for all purposes, inspired by Owl Carousel.",
+    "type": "drupal-library",
+    "license": "MIT",
+    "require": {}
+}
